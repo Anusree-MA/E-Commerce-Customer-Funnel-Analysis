@@ -43,7 +43,7 @@ The objective of this project is to:
 
 # 📊 Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Funnel-Analysis.png)
 
 ---
 
@@ -239,10 +239,10 @@ Conversion Rate:
 E-Commerce-Customer-Funnel-Analysis
 │
 ├── assets/
-│   ├── dashboard.png
-│   ├── overview.png
-│   ├── filters.png
-│   └── logo.png
+│   ├── Funnel-Analysis.png
+│   ├── Funnel info.png
+│   ├── filter.png
+│  
 │
 ├── dashboard/
 │   └── Funnel Analysis.twbx
@@ -260,13 +260,13 @@ E-Commerce-Customer-Funnel-Analysis
 
 ## Welcome Screen
 
-![Overview](assets/overview.png)
+![Overview](assets/Funnelinfo.png)
 
 ---
 
 ## Interactive Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Funnel-Analysis.png)
 
 ---
 
