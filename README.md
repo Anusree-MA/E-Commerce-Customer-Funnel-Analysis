@@ -260,7 +260,7 @@ E-Commerce-Customer-Funnel-Analysis
 
 ## Welcome Screen
 
-![Overview](assets/Funnelinfo.png)
+![Overview](assets/Funnel info.png)
 
 ---
 
@@ -272,7 +272,7 @@ E-Commerce-Customer-Funnel-Analysis
 
 ## Filter Panel
 
-![Filters](assets/filters.png)
+![Filters](assets/filter.png)
 
 ---
 
